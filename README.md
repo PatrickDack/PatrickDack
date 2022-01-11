@@ -1,4 +1,4 @@
-# Sejam bem-vindos, mas venham na maciota! 👋
+# Sejam bem-vindos! 👋
 
 
 <!-- **PatrickDack/PatrickDack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
